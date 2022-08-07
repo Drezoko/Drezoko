@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="encurtador.com.br/ktKL7" target="_blank">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-d-56205011b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspXNHmGKHsLXThQKRKPnGkpzWJkhVfgsKzgDrQZQzdpPlXvMxqpThgzzXGSFjnvLkScNB" target="_blank">
