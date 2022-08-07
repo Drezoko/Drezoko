@@ -30,6 +30,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/drezoko/drezoko/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ###
