@@ -30,6 +30,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/drez/drez/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/drezoko/drezoko/blob/output/github-contribution-grid-snake.gif)
 
 ###
